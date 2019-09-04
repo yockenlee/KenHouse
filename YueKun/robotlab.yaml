@@ -1,0 +1,6 @@
+free_thresh: 0.196
+image: /nfshome/strands/YueKun/test_robotlab/robot_files/robotlab.pgm
+negate: 0
+occupied_thresh: 0.65
+origin: [-9.099999999999994, -3.75, 0.0]
+resolution: 0.05

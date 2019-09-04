@@ -1,0 +1,392 @@
+node: 
+	ChargingPoint
+	waypoint:
+		0,0,0,0,0,0,0
+	edges:
+		 WayPoint1, undocking
+	vertices:
+		0.250000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.250000,-0.690000
+node: 
+	WayPoint1
+	waypoint:
+		0.285269846751,1.95023049074,0.021,0.0,0.0,0.453699575907,0.89115469747
+	edges:
+		 ChargingPoint, docking
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint2
+	waypoint:
+		0.285269846751,1.95023049074,0.021,0.0,0.0,0.453699575907,0.89115469747
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint3
+	waypoint:
+		0.285269846751,1.95023049074,0.021,0.0,0.0,0.453699575907,0.89115469747
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint4
+	waypoint:
+		0.285269846751,1.95023049074,0.021,0.0,0.0,0.453699575907,0.89115469747
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint5
+	waypoint:
+		-2.65373845867,2.95762214768,0.021,0.0,0.0,0.84094210405,0.541125103498
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint6
+	waypoint:
+		-2.65373845867,2.95762214768,0.021,0.0,0.0,0.84094210405,0.541125103498
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint7
+	waypoint:
+		-1.40663304235,-0.629688775898,0.021,0.0,0.0,0.847724381209,0.530436964685
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint8
+	waypoint:
+		-1.40663304235,-0.629688775898,0.021,0.0,0.0,0.847724381209,0.530436964685
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint9
+	waypoint:
+		-1.35500001907,3.41000008583,0.021,0.0,0.0,0.985787704844,0.167995836191
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint10
+	waypoint:
+		-1.35500001907,3.41000008583,0.021,0.0,0.0,0.985787704844,0.167995836191
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint11
+	waypoint:
+		-5.88614145801,2.94186258582,0.021,0.0,0.0,0.987362601219,0.15847742336
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint12
+	waypoint:
+		-5.88614145801,2.94186258582,0.021,0.0,0.0,0.987362601219,0.15847742336
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint13
+	waypoint:
+		-4.96787542357,1.05556844196,0.021,0.0,0.0,0.86561678989,0.500707073109
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint14, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
+node: 
+	WayPoint14
+	waypoint:
+		-4.96787542357,1.05556844196,0.021,0.0,0.0,0.86561678989,0.500707073109
+	edges:
+		 WayPoint1, human_aware_navigation
+		 WayPoint2, human_aware_navigation
+		 WayPoint3, human_aware_navigation
+		 WayPoint4, human_aware_navigation
+		 WayPoint5, human_aware_navigation
+		 WayPoint6, human_aware_navigation
+		 WayPoint7, human_aware_navigation
+		 WayPoint8, human_aware_navigation
+		 WayPoint9, human_aware_navigation
+		 WayPoint10, human_aware_navigation
+		 WayPoint11, human_aware_navigation
+		 WayPoint12, human_aware_navigation
+		 WayPoint13, human_aware_navigation
+	vertices:
+		0.690000,0.287000
+		0.287000,0.690000
+		-0.287000,0.690000
+		-0.690000,0.287000
+		-0.690000,-0.287000
+		-0.287000,-0.690000
+		0.287000,-0.690000
+		0.690000,-0.287000
